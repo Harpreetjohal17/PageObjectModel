@@ -1,0 +1,26 @@
+TestNg is a Unit Testing Framework or TDD Framework
+
+Unit Testing - Developers
+
+TDD- Test Driven Development - Testng.xml
+
+when we are using Testng - no need to use psvm 
+
+we will use @Test
+
+Method Over riding 
+
+main method can be overiride 
+
+@Test - library of testng in java
+
+@Test
+psvm
+
+beforeMethod - it will execute before every @test 
+AfterMethod - it will execute after every @test
+
+beforetest
+beforeclass
+
+
