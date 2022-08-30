@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T13:31:39 PDT" name="Suite" finished-at="2022-08-22T13:32:05 PDT" duration-ms="25333">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T13:31:39 PDT" name="Test" finished-at="2022-08-22T13:32:05 PDT" duration-ms="25333">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@32ee6fee]" started-at="2022-08-22T13:31:39 PDT" name="Initalization" finished-at="2022-08-22T13:31:46 PDT" duration-ms="6249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:0, instance:com.test.MultiTest@32ee6fee]" started-at="2022-08-22T13:31:46 PDT" name="SelectDropDown" finished-at="2022-08-22T13:31:46 PDT" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="AdvanceDropDown()[pri:0, instance:com.test.MultiTest@32ee6fee]" started-at="2022-08-22T13:31:46 PDT" name="AdvanceDropDown" finished-at="2022-08-22T13:31:55 PDT" depends-on-methods="com.test.MultiTest.SelectDropDown" duration-ms="8365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvanceDropDown -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:com.test.MultiTest@32ee6fee]" started-at="2022-08-22T13:31:55 PDT" name="Cleanup" finished-at="2022-08-22T13:31:55 PDT" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+      </class> <!-- com.test.MultiTest -->
+      <class name="com.test.MouseHavering">
+        <test-method signature="Hovering()[pri:0, instance:com.test.MouseHavering@7fee8714]" started-at="2022-08-22T13:31:55 PDT" name="Hovering" finished-at="2022-08-22T13:32:05 PDT" duration-ms="9816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hovering -->
+      </class> <!-- com.test.MouseHavering -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

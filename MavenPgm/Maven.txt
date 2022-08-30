@@ -1,0 +1,8 @@
+
+we will store our code in Git Repo
+
+Bitbucket /Git bash
+
+jeknins-> git
+
+jenkins - > Pom.xml - TestNg.xml --- scripting -- Base class --- Main Functionaly - Page object Object
