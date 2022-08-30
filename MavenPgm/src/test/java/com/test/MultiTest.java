@@ -25,7 +25,7 @@ public class MultiTest extends Setup {
 	
 	Select sel = new Select(seldrop);
 	
-	sel.selectByIndex(4);
+	sel.selectByIndex(5);
 	
 	//sel.selectByValue("search-alias=baby-products");
 	
